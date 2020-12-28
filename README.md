@@ -39,7 +39,7 @@ Hope you'll install it in your computer just to try .
 
 
 ## Contributors
-[deepraj02](https://github.com/deepraj02)
-<img src="pic1.jpg">
+[Deepraj Baidya](https://github.com/deepraj02)
+<img src="Pic1.jpg">
 
 ### Functionality to be added undo and redo to add more flexibility to it.
