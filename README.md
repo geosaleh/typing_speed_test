@@ -25,9 +25,9 @@
   > cd typing_speed_test.py/
   ```
 
-Now its time to execute **Notepad.py**
+Now its time to execute **typing_speed_test.py**
 ```
->python Notepad.py
+>python typing_speed_test.py
 ```
 it will show following Output
 <img src="sample2.png">
