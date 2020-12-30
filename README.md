@@ -10,7 +10,6 @@
   ```
   - Download this repository on local machine.
   - Extract typing_speed_test repository on local machine and open typing_speed_test folder
-  - Double click on "Notepad -0.01-amd64.msi" To install Application.
   - Give required permissions and Enjoy thetyping_speed_testApplication.
   ```
 
@@ -39,7 +38,7 @@ Hope you'll install it in your computer just to try .
 
 
 ## Contributors
-[deepraj02](https://github.com/deepraj02)
-<img src="pic1.jpg">
+[Deepraj Baidya](https://github.com/deepraj02)
+<img src="Pic1.jpg">
 
 ### Functionality to be added undo and redo to add more flexibility to it.
