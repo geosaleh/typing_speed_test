@@ -32,13 +32,7 @@ it will show following Output
 <img src="sample2.png">
 
 ## Download
-:paperclip: [Download Here](https://github.com/geosaleh/typing_speed_test)
+:paperclip: [Download Here](https://github.com/geosaleh/typing_speed_test/archive/refs/heads/master.zip)
 
 Hope you'll install it in your computer just to try .
 
-
-## Contributors
-[Deepraj Baidya](https://github.com/deepraj02)
-<img src="Pic1.jpg">
-
-### Functionality to be added undo and redo to add more flexibility to it.
