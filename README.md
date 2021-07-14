@@ -10,7 +10,7 @@
   ```
   - Download this repository on local machine.
   - Extract typing_speed_test repository on local machine and open typing_speed_test folder
-  - Give required permissions and Enjoy thetyping_speed_testApplication.
+  - Give required permissions and Enjoy the typing_speed_testApplication.
   ```
 
   Python Code On windows machine:
@@ -19,9 +19,9 @@
   ```
   >git clone https://github.com/geosaleh/typing_speed_test
   ```
-  change directory to typing_speed_test.py
+  change directory to typing_speed_test
   ```
-  > cd typing_speed_test.py/
+  > cd typing_speed_test/
   ```
 
 Now its time to execute **typing_speed_test.py**
